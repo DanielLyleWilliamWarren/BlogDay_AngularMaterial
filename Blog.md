@@ -17,7 +17,7 @@ The Angular Material Library has allowed developers to work on multiple projects
 
  ![Demo-Notification](/assets/notifications.gif)
 
- *Figure 2: Example of the same UI notification component being used in different projects, where styling respective to each project is applied.* 
+ *Figure 2: Example of the same UI notification component being used in different projects, where styling respective to each project is applied.*
 
 From the above graphic we see two different BGS projects, BMGF-MAPS and BGS Explorer, both using the same reusable notification component in the code, but with their own respective styling. The versatility of the Angular Material component is demonstrated as it adapts to being displayed on a browser window and a mobile window.  
 
